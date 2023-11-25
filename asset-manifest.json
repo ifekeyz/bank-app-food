@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd84d000.css",
+    "main.js": "/static/js/main.02775713.js",
+    "static/js/787.4e5a9ad5.chunk.js": "/static/js/787.4e5a9ad5.chunk.js",
+    "static/media/man-image.png": "/static/media/man-image.b226d1e640dd693c227d.png",
+    "static/media/iPhone 14 Pro.png": "/static/media/iPhone 14 Pro.2d8594a225b31dade0d1.png",
+    "static/media/cart-mockup.png": "/static/media/cart-mockup.59f12bb4d6c9d7d1fc62.png",
+    "static/media/dashboard-background-design.png": "/static/media/dashboard-background-design.fba5c4cccd28dc918220.png",
+    "index.html": "/index.html",
+    "main.cd84d000.css.map": "/static/css/main.cd84d000.css.map",
+    "main.02775713.js.map": "/static/js/main.02775713.js.map",
+    "787.4e5a9ad5.chunk.js.map": "/static/js/787.4e5a9ad5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd84d000.css",
+    "static/js/main.02775713.js"
+  ]
+}
